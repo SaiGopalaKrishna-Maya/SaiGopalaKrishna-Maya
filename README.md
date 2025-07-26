@@ -8,7 +8,7 @@
 
 <p align="left">
     - 🌐 All of my projects are available at 
-    <a href="https://saigopalakrishnamaya.github.io/Personal_Portfolio/" target="_blank">
+    <a href="https://saigopalakrishna-maya.github.io/Portfolio/" target="_blank">
         <strong>Portfolio</strong>
     </a>
 </p>
